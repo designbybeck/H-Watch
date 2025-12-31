@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The H-Watch is a fully open-sourde wearable long-lasting smart monitoring platform for health monitoring and tracking. Thanks to the integrated state-of-the-art NB-IoT cellular technology, it provides direct and secure cloud connectivity. It  is  based  on  widely  available  off-the-shelf components; however, it is designed with low-power and on-board intelligence in mind. Experimentalresults demonstrated only 5.9 mW of average power consumption, leading to a lifetime of 9 days on a small watch battery wothout, and up to 20 days with the solarenergy harvester.
+The H-Watch is a fully open-source wearable long-lasting smart monitoring platform for health monitoring and tracking. Thanks to the integrated state-of-the-art NB-IoT cellular technology, it provides direct and secure cloud connectivity. It  is  based  on  widely  available  off-the-shelf components; however, it is designed with low-power and on-board intelligence in mind. Experimentalresults demonstrated only 5.9 mW of average power consumption, leading to a lifetime of 9 days on a small watch battery wothout, and up to 20 days with the solarenergy harvester.
 
 ## Hardware
 
